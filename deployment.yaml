@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: demo-app
-        image: dockerhub_username/demo-app:latest
+        image: viswatejavathadi/demo-app:latest
         ports:
         - containerPort: 5000
 ---
